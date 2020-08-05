@@ -24,6 +24,13 @@ The goal of this code (maybe an API) is a JSON response similiar to this:
 
 I've done this the most simple as I could, having only "Francisco Presencia - Drive-db" CDN as a dependency, because **I do believe** _simple things works much better_... 
 
+# Input - Google Spreadsheet
+
+<img width="auto" src="https://github.com/danielramosbh74/Brazilian-banks-html-javascript-with-CDN/blob/master/images/Brazilian-Banks-Google-Spreadsheet-input.png?raw=true">
+
+# Output - JSON
+
+<img width="auto" src="https://github.com/danielramosbh74/Brazilian-banks-html-javascript-with-CDN/blob/master/images/Brazilian-Banks-JSON-output.png?raw=true">
 
 ## Run
 
